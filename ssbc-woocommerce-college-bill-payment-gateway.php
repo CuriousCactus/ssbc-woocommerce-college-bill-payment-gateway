@@ -1,11 +1,11 @@
 <?php
 /*
  * Plugin Name:		SSBC - WooCommerce - College Bill Payment Gateway
- * Plugin URI:		https://github.com/CuriousCactus/woocommerce-college-bill-gateway and https://github.com/wp-plugins/woocommerce-phone-order-gateway
+ * Plugin URI:		https://github.com/CuriousCactus/woocommerce-college-bill-payment-gateway and https://github.com/wp-plugins/woocommerce-phone-order-gateway
  * Description: 	This plugin adds a College Bill payment gateway to the WooCommerce plugin.
  * Author: 			Lois Overvoorde (adapted from woocommerce-phone-order-gateway by XxXYonIXxX)
  * Author URI: 		https://github.com/curiouscactus and http://www.scolpy.net/
- * Text Domain:     ssbc-woocommerce-college-bill-gateway
+ * Text Domain:     ssbc-woocommerce-college-bill-payment-gateway
  * Version: 		1.0.0
 */
 
